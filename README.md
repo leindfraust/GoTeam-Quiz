@@ -1,4 +1,16 @@
-# Nuxt 3 Minimal Starter
+# A repo for GoTeam's quiz for the Front-End Developer role
+
+## Quizes
+
+### Quiz 1
+
+Quiz 1 is the default page (pages/index.vue) and pages/tasks.vue.
+
+### Quiz 2
+
+Quiz 2 is the pages/design.vue.
+
+## Made with Nuxt 3 (3.7.4), Pinia, TailwindCSS and DaisyUI
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
